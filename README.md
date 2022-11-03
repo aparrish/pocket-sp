@@ -28,7 +28,7 @@ write-up](http://posts.decontextualize.com/pocket-sp/) for more information.
 ## License
 
 These files are licensed as [CC
-BY-NA-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/). That means that
+BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/). That means that
 you can share and adapt the work, as long as you give appropriate credit and
 release your modifications under the same license as the original. You may not
 use the files in this repository for commercial purposes.
